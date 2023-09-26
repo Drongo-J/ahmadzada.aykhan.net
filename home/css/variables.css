@@ -1,0 +1,15 @@
+  :root {
+  --first-color: #C3132C;
+  --second-color: #0f0c0c;
+  --third-color: #F3F3F3;
+  /* Button Color */
+  --fourth-color: #f06449;
+  /* Loader Color */
+  --fifth-color: #252a60; 
+  /* SVG Color - Text Color in Header*/
+  --sixth-color: #4c4f65;
+  /* Text Color in Main */
+  --seventh-color: #111;
+
+  --eighth-color: #b0b2c3;
+}
