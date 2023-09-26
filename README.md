@@ -1,7 +1,7 @@
 # ahmadzada.aykhan.net - Personal Portfolio with a Unique Twist
 
 <div align="center">
-  <img src="https://media.aykhan.net/assets/logos/ahmadzada-aykhan-net.png" alt="ahmadzada.aykhan.net Logo">
+  <img src="https://media.aykhan.net/assets/logos/aykhannet.ico" alt="ahmadzada.aykhan.net Logo">
 </div>
 
 Welcome to the GitHub repository "ahmadzada.aykhan.net"! This repository serves as an alternate version of my personal portfolio, "aykhan.net," but with a unique twist in terms of design and color scheme. Just like its counterpart, this portfolio showcases my programming tasks and projects related to web development, highlighting my proficiency in various technologies, including React, ASP.NET, HTML, CSS, and JavaScript.
